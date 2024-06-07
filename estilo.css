@@ -1,0 +1,50 @@
+.d1{
+    margin-top: -25px;
+    background-image: url(capa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 700px;
+    width: 100%;
+    padding-top: 50px;
+
+.n1{
+    background-color: darkred;
+    margin-left: 580px;
+    margin-right: 580px;
+    text-align: center;
+}
+.n2{
+    margin-top: -20px;
+    background-color: goldenrod;
+    margin-left: 580px;
+    margin-right: 580px;
+    text-align: center;
+}
+}
+.d2{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 200px;
+h2{
+    font-weight: normal;
+}
+img{
+    width: 180px;
+}
+}
+.d3{
+    background-image: url(img1.jpg);
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height: 650px;
+    width: 100%;
+    margin-top: 60px;
+}
+.d4{
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: justify;
+}
